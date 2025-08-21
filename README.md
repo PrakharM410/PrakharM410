@@ -2,6 +2,5 @@
 - 👀 I’m interested in Python, Web Development, and Backend Engineering
 - 🌱 I’m currently learning advanced Python techniques
 - 💞️ I’m looking to collaborate on Python-based projects and web applications
-- 📫 How to reach me: Email me at prakharmishra218@gmail.com
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: Email me at prakharmish410@gmail.com
 - ⚡ Fun fact: I love exploring new technologies and solving problems with code
